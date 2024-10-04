@@ -1,7 +1,8 @@
-from code import *
+from src import *
 
 def main():
-    pass
+    palabra, letras = inicio()
+    ahorcado(palabra, letras)
 
 if __name__ == '__main__':
-    mains()
+    main()
