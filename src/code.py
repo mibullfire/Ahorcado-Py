@@ -1,0 +1,2 @@
+def ahorcado(palabra):
+    pass
